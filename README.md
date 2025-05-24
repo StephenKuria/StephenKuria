@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @StephenKuria
-- 👀 I’m interested in ...Grafic Design, Web Design, Social Media Management
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...through email kendrickdesign09@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My journey into software development started with a simple passion, the desire to build and create. Growing up, I had no digital skills and little exposure to technology, but I was fascinated by how websites and apps worked behind the scenes. That curiosity turned into a calling. Through self-teaching, perseverance, and faith, I began crafting digital solutions from the ground up. Every challenge I faced became a stepping stone, and every line of code reflected growth. Today, I code not just to build but to impact, solve problems, and serve a greater purpose through technology.
 
-<!---
-StephenKuria/StephenKuria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in both front-end and back-end development, using tools like **HTML, CSS, JavaScript, Bootstrap**, and **Tailwind CSS** to craft beautiful, responsive interfaces, and **PHP (Laravel)** and **MySQL** for powerful, scalable backend systems. I'm also the founder of **Kendrick Designs**, where I apply my skills as a **software developer, digital marketer, and graphic designer** to help businesses grow in the digital space. I'm continuously learning, experimenting, and building real-world projects that bring value to users. My work is driven by faith, purpose, and a passion for excellence, and I believe that with the right mindset and skills, we can build solutions that truly make a difference.
